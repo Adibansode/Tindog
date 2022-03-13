@@ -128,4 +128,7 @@ h2{
     .abc{
         margin-left: 100px;
     }
+    .carousel-control-prev, .carousel-control-next{
+        margin: 0px 30px;
+    }
 }
